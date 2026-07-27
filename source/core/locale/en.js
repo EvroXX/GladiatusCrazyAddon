@@ -236,7 +236,7 @@ gca_languages["en"] = {
 			player1_hits_player2 : "{{name1}} hits {{name2}}",
 			player_takes_x_damage :"{{name}} takes {{number}} damage",
 			player_dies :"{{name}} dies",
-			global_arena_notice : "To track your leaderboard ranking, Global Arena sends your public player information (name, country, server and level) to an external service. No data is being collected.",
+			global_arena_notice : "To track your leaderboard ranking, Global Arena sends your public player information (player name, guild, level and server) to an external service. No data is being collected.",
 			global_arena_notice_title : "Transparency notice"
 		},
 
